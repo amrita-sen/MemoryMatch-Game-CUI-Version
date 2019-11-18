@@ -1,4 +1,4 @@
-# MemoryMatch-Game-CUI-Version
+# MemoryMatch-Game-CUI-Version (Academic Project)
 Command-line User Interface version of a tile matching game.
 This is a an intellectual, yet fun, game that is intended to train concentration, patience, and short-term memory as the player 
 attempts to match tiles on a displayed tile board, using commands from the options provided.
