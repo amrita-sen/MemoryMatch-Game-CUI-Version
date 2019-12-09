@@ -652,7 +652,7 @@ public class GamePlay
         System.out.println("3. Every match, will increase your \"number of matches\" by 1 and every miss will increase your \"number of misses\" by 1.");
         System.out.println("4. If you choose to change your tile board mid-way through your game, your score will be reset to 0 before you begin play again.");
         System.out.println("5. Once you begin to play the game, your score will be displayed throughout the game.");
-        System.out.println("6. At the end of the game, your final score will be displayed along with the tile board will all tiles flipped.");
+        System.out.println("6. At the end of the game, your final score will be displayed along with the tile board with all tiles flipped.");
         System.out.print("7. Bonus: If you manage to match all the tiles on your tile board, you will be awarded " + this.player.getIndividualScore().getBonusPoints());
         System.out.println(" points.");
         System.out.println();
